@@ -1,5 +1,61 @@
 {
-  "users": [],
-  "products": [],
+  "users": [
+    {
+      "email": "tulio@tulio.com",
+      "password": "$2a$10$McSibJQ2ZpzdM3PxYzXrAueH.NlGBc.fBupoAoAlnLblz9GW4borK",
+      "name": "Tulio",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "title": "Hamburguer",
+      "type": "Sanduíches",
+      "price": "14",
+      "image": "https://i.ibb.co/w0b0471/hamburguer.png"
+    },
+    {
+      "title": "X-Burgue",
+      "type": "Sanduíches",
+      "price": "16",
+      "image": "https://i.ibb.co/JcfmXcZ/xburgue.png"
+    },
+    {
+      "title": "Big Kenzie",
+      "type": "Sanduíches",
+      "price": "18",
+      "image": "https://i.ibb.co/pWnxcC6/big-kenzie.png"
+    },
+    {
+      "title": "Combo Kenzie",
+      "type": "Combos",
+      "price": "26",
+      "image": "https://i.ibb.co/vVY9m14/combo-kenzie.png"
+    },
+    {
+      "title": "Fanta Guaraná",
+      "type": "Bebidas",
+      "price": "5",
+      "image": "https://i.ibb.co/JFNQ2mc/fanta-guarana.png"
+    },
+    {
+      "title": "Coca Cola",
+      "type": "Bebidas",
+      "price": "7",
+      "image": "https://i.ibb.co/vDmF794/coca-cola.png"
+    },
+    {
+      "title": "McShake Ovomaltine",
+      "type": "Sobremesas",
+      "price": "10",
+      "image": "https://i.ibb.co/Fhp8GSq/mc-ovomaltine.png"
+    },
+    {
+      "title": "McFlaus Sorvete",
+      "type": "Sobremesas",
+      "price": "8",
+      "image": "https://i.ibb.co/g4cx0VP/mc-sorvete.png"
+    }
+  ],
   "cart": []
 }
